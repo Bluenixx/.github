@@ -1,4 +1,4 @@
-[banner](https://raw.githubusercontent.com/Bluenixx/.github/refs/heads/main/banner.png)
+![banner](https://raw.githubusercontent.com/Bluenixx/.github/refs/heads/main/banner.png)
 ### BLUENIXX
 - Bluenixx is a rom based on [LineageOS](https://github.com/LineageOS/).
 - We are looking for a clean, beautiful,
