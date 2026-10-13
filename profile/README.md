@@ -8,5 +8,14 @@
 for your device and sharing it with
 your friends. Enjoy!
 [Bluenixx Manifest](https://github.com/Bluenixx/bluenixx-manifest)
+[Bluenixx Chat](https://t.me/bluenixx_chat)
+[Bluenixx Updates](https://t.me/bluenixx_updates)
 
-Since 2026
+Credits:
+AxionAosp
+Lineage os
+CrDroid
+CircleProject
+LunarisAosp
+and others...
+### Since 2026
