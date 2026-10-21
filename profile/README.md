@@ -7,7 +7,9 @@
 for your device and sharing it with
 your friends. Enjoy!
 [Bluenixx Manifest](https://github.com/Bluenixx/bluenixx-manifest)
+-
 [Bluenixx Chat](https://t.me/bluenixx_chat)
+-
 [Bluenixx Updates](https://t.me/bluenixx_updates)
 
 Credits:
